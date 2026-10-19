@@ -2,12 +2,15 @@
 title: "The Marginalia"
 ---
 
-<!-- This page is just a list of "cards". Each card is the small block of HTML
-     between <div class="col"> ... </div></div></div>. To add a new edition,
-     copy the top card (the newest), paste it above itself, and change the
-     number, title, book, author, and link. -->
+<!-- HOW THIS PAGE WORKS
+     Each card below is one edition. To add a new edition, copy the top card,
+     paste it above itself, and change the number, title, book, author, question,
+     link, and the number in the image path (files/marginalia/edition-N.jpg).
+     BOOK PHOTOS: upload a photo named edition-N.jpg (for example edition-5.jpg)
+     into the files/marginalia folder and it appears on that card automatically.
+     Cards without a photo simply show no picture. -->
 
-*The Marginalia* is a recurring literary essay series, published on LinkedIn, in which I revisit a book that has shaped my thinking. The name comes from my habit of writing in the margins of the books I read. Each edition is anchored by a quote and ends with a question for readers. Editions are listed newest first, and each card links to the full essay on LinkedIn.
+*The Marginalia* is a recurring literary essay series, published on LinkedIn, in which I revisit a book that has shaped my thinking. The name comes from my habit of writing in the margins of the books I read. Each edition is anchored by a passage that stopped me in my tracks and ends with a question for readers. Editions are listed newest first. Each card shows the closing question and links to the full essay on LinkedIn.
 
 <style>
 .edition-no { font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; color: #777; margin-bottom: .25rem; }
@@ -15,115 +18,172 @@ title: "The Marginalia"
 .edition-card { border: 1px solid #e3e3e3; }
 .edition-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,.08); }
 .edition-card .card-title { margin-top: 0; border: none; }
+.edition-img { height: 240px; object-fit: contain; background: #f6f6f6; padding: .75rem; }
+.edition-q { font-size: .9rem; border-left: 3px solid #9d2235; padding-left: .75rem; margin: .5rem 0 1rem; }
+.edition-q-label { display: block; font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; color: #777; margin-bottom: .2rem; }
 </style>
 
 ::: {.row .row-cols-1 .row-cols-md-2 .g-3 .mt-3}
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-18.jpg" alt="Photo of Thinking, Fast and Slow" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 18</p>
-<h3 class="card-title h5">Familiar Isn&#x27;t True</h3>
+<h3 class="card-title h5">Familiar Isn’t True</h3>
 <p class="card-text edition-book"><em>Thinking, Fast and Slow</em><br>Daniel Kahneman</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What do you believe about people that you’ve never actually tested, only heard? And if you traced where those repetitions came from, how many would lead back to someone you’ve ever sat across a table from?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-18-familiar-isnt-true-andrew-a-hanna-cotlc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-17.jpg" alt="Photo of The Lord of the Rings" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 17</p>
 <h3 class="card-title h5">Food, Cheer, and Song</h3>
 <p class="card-text edition-book"><em>The Lord of the Rings</em><br>J.R.R. Tolkien</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>If the world really is full of dark places, who are the people who keep the light in view for you? And when was the last time you spent an evening with them over food, cheer, and song instead of more time with something you hoard?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-16-food-cheer-song-andrew-a-hanna-mdeqc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-16.jpg" alt="Photo of Human Nature and the Social Order" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 16</p>
-<h3 class="card-title h5">Each to Each, a Looking Glass</h3>
+<h3 class="card-title h5">Each to Each, a Looking-Glass</h3>
 <p class="card-text edition-book"><em>Human Nature and the Social Order</em><br>Charles Horton Cooley</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>Whose reflection of you do you trust most, and when did you last let that person hold your mirror? And to the people you pass today, online or off, what reflection are you providing back?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-16-each-looking-glass-andrew-a-hanna-skh5c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-15.jpg" alt="Photo of Reflections on the Right Use of School Studies" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 15</p>
 <h3 class="card-title h5">The Purest Form of Generosity</h3>
 <p class="card-text edition-book"><em>Reflections on the Right Use of School Studies</em><br>Simone Weil</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>Who gave you their attention at a moment in life that changed your direction, and do they even know it? Who in your life right now might be waiting for someone to listen about what they're going through?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-15-purest-form-generosity-andrew-a-hanna-d0v7c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-14.jpg" alt="Photo of Leaves of Grass" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 14</p>
 <h3 class="card-title h5">The Days That Must Happen</h3>
 <p class="card-text edition-book"><em>Leaves of Grass</em><br>Walt Whitman</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>Who in your life has been iron to you; who cares enough to be hard on you? And when they are, do you hear it as a tribulation, or is it simply a reminder to you of the person they know you to be?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-14-days-must-happen-andrew-a-hanna-i2ric/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-13.jpg" alt="Photo of Revisionist History" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 13</p>
 <h3 class="card-title h5">Respecting What We Are Trying to Heal</h3>
 <p class="card-text edition-book"><em>Revisionist History</em><br>Malcolm Gladwell</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What is the thing you most want to see change right now — and could the people you are asking to make a change tell, from the way you approach it, that you love it too?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-13-respecting-what-we-trying-heal-andrew-a-hanna-5ff2c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-12.jpg" alt="Photo of The Creative Act" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 12</p>
 <h3 class="card-title h5">Wonder, Outsourced</h3>
 <p class="card-text edition-book"><em>The Creative Act</em><br>Rick Rubin</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What ideas in your life are you not allowing yourself to sit with for longer than is simply efficient — and what might you get from the field that you're not getting from taking the shortcut across it?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-12-wonder-outsourced-andrew-a-hanna-f8hoc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-11.jpg" alt="Photo of East of Eden" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 11</p>
 <h3 class="card-title h5">The Pride in Our Hurt</h3>
 <p class="card-text edition-book"><em>East of Eden</em><br>John Steinbeck</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What's the hardest thing that has happened to you — and if you're honest, what is telling the story currently getting you out of? If you set it down a while, not denied it, just set down for a while, what part of your life has been waiting offstage for you to notice that the theater might be empty?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-11-pride-our-hurt-andrew-a-hanna-d9ric/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-10.jpg" alt="Photo of The House in the Cerulean Sea" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 10</p>
 <h3 class="card-title h5">Magic in the Ordinary</h3>
 <p class="card-text edition-book"><em>The House in the Cerulean Sea</em><br>T.J. Klune</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What would it take for you to hear the word "ordinary" as a compliment instead of something lacking? And if it really is correct that reaching for extraordinary is what actually separates you from it, what, exactly, have you spent this year reaching for?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-10-magic-ordinary-andrew-a-hanna-tsolc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-9.jpg" alt="Photo of Don&#x27;t Sweat the Small Stuff" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 9</p>
 <h3 class="card-title h5">The Lifelong Walk</h3>
 <p class="card-text edition-book"><em>Don&#x27;t Sweat the Small Stuff</em><br>Richard Carlson</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What's the "small stuff" you've had the hardest time convincing yourself is actually small — and has your relationship to it changed, or just your tolerance for carrying it?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-9-lifelong-walk-andrew-a-hanna-jkr9e/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-8.jpg" alt="Photo of The Alchemist" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 8</p>
 <h3 class="card-title h5">Serendipity Has Names</h3>
 <p class="card-text edition-book"><em>The Alchemist</em><br>Paulo Coelho</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>Who advocated for you in a room you weren't in — and could you name them if you tried?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-8-serendipity-has-names-andrew-a-hanna-klt1c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-7.jpg" alt="Photo of Women" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 7</p>
 <h3 class="card-title h5">Good...But Never Right</h3>
 <p class="card-text edition-book"><em>Women</em><br>Charles Bukowski</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What's the belief you keep confirming on a technicality — accurate enough to survive every year, about the wrong thing entirely?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-7-goodbut-never-right-andrew-a-hanna-bmb5c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-6.jpg" alt="Photo of Gambler&#x27;s All" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 6</p>
 <h3 class="card-title h5">How Well We Walk</h3>
 <p class="card-text edition-book"><em>Gambler&#x27;s All</em><br>Charles Bukowski</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>The next time the verdict arrives, wearing all its false confidence, what is the memory you could reach for that would let you laugh?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-6-how-well-we-walk-andrew-a-hanna-wc4tc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-5.jpg" alt="Photo of The Professor of Desire" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 5</p>
 <h3 class="card-title h5">How Easy, How Hard</h3>
 <p class="card-text edition-book"><em>The Professor of Desire</em><br>Philip Roth</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>If you couldn't hand down the verdict from inside today — if you had to wait until you were far enough away to see the whole arc — how would you say your life is going, really? And whom would you trust to answer: the self living this one particular morning, or the one who has to remember all of them?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-5-how-easy-hard-andrew-a-hanna-dou1c/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-4.jpg" alt="Photo of How to See Yourself as You Really Are" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 4</p>
 <h3 class="card-title h5">Our Bookends</h3>
 <p class="card-text edition-book"><em>How to See Yourself as You Really Are</em><br>Dalai Lama</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>If we truly believed that we depended on other people's kindness, that we always have, and that one day soon, we will again, how differently would we move through the middle of our lives?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-4-our-bookends-andrew-a-hanna-wtlmc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-3.jpg" alt="Photo of Walden" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 3</p>
 <h3 class="card-title h5">No Companion So Companionable</h3>
 <p class="card-text edition-book"><em>Walden</em><br>Henry David Thoreau</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What question have you been avoiding by staying busy? And what might happen if you finally sat still long enough to hear the answer?</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-3-companion-so-companionable-andrew-a-hanna-behpc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-2.jpg" alt="Photo of Man&#x27;s Search for Meaning" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 2</p>
-<h3 class="card-title h5">Hold on Loosely</h3>
+<h3 class="card-title h5">Hold On Loosely</h3>
 <p class="card-text edition-book"><em>Man&#x27;s Search for Meaning</em><br>Viktor Frankl</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>What's something you've been gripping too tightly? A title? A milestone? Some arbitrary metric? Perhaps they might actually arrive faster, or matter less, the moment you let go of it.</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-2-hold-loosely-andrew-a-hanna-pw9ic/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
-<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<div class="col"><div class="card h-100 edition-card">
+<img class="card-img-top edition-img" src="files/marginalia/edition-1.jpg" alt="Photo of The Prophet" loading="lazy" onerror="this.remove()">
+<div class="card-body d-flex flex-column">
 <p class="edition-no">Edition 1</p>
 <h3 class="card-title h5">The Spaces in Our Togetherness</h3>
 <p class="card-text edition-book"><em>The Prophet</em><br>Kahlil Gibran</p>
+<p class="card-text edition-q"><span class="edition-q-label">A question for your margins</span>Who is a friend you haven't spoken to in a while, but could call tomorrow and pick up as though no time had passed? Perhaps this week is a good time to do so. Not to fill the space, but to celebrate the space.</p>
 <a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-1-spaces-our-togetherness-andrew-a-hanna-9znnc/" target="_blank" rel="noopener">Read on LinkedIn</a>
 </div></div></div>
 
