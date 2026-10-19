@@ -23,10 +23,10 @@ about:
     # Add these when you have the URLs (delete the leading "# " on each line):
     # - icon: mortarboard
     #   text: Google Scholar
-    #   href: https://scholar.google.com/citations?user=XXXX
+    #   href: https://scholar.google.com/citations?user=157HxqsAAAAJ&hl=en&oi=ao
     # - icon: person-badge
     #   text: ORCID
-    #   href: https://orcid.org/0000-0000-0000-0000
+    #   href: https://orcid.org/0000-0002-5134-7915
 ---
 
 I am an Assistant Professor of Management in the Department of Management at the University of Nebraska-Lincoln, where I am also a Seacrest Teaching Fellow. I earned my B.S.B.A., M.B.A., and Ph.D. in Business (Management) from UNL, completing the Ph.D. in 2021 under Larry J. Williams and Troy A. Smith.
