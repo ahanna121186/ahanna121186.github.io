@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Andrew A. Hanna"          # shown in the browser tab and top-left of the navbar
-  site-url: "https://YOUR-USERNAME.github.io"   # <-- CHANGE: your GitHub username
+  site-url: "https://ahanna121186.github.io"   # <-- CHANGE: your GitHub username
   description: "Assistant Professor of Management at the University of Nebraska-Lincoln. Research on emergent leadership, multiple team membership, and latent variable methodology."
   # favicon: files/favicon.png      # optional tab icon; add a small PNG there and remove the leading "# "
   page-footer:
