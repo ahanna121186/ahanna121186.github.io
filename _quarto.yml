@@ -31,7 +31,7 @@ website:
       - href: cv.qmd
         text: CV
       - icon: github                # small icon link; CHANGE the username
-        href: https://github.com/YOUR-USERNAME
+        href: https://github.com/ahanna121186
         aria-label: GitHub
 
 format:
