@@ -1,0 +1,90 @@
+---
+title: "Talks and Presentations"
+toc: true
+toc-title: "On this page"
+---
+
+## Invited talks and workshops
+
+::: {.pubs}
+
+- **Ethical integration of AI technologies in organizational research methodology.** Academy of Management Community Accelerator Program, EKA Institute of Applied Sciences, Riga, Latvia, April 2027 (scheduled).
+- **Methods for Dummies: Five topics you wanted to know better, but were afraid to ask.** Southern Management Association, St. Petersburg Beach, FL, October 2026. (With DeSimone, Gooty, Lemoine, Richardson, & Schurer Lambert.)
+- **Staying methodologically sharp: Lessons from the ORM editorial team for every career stage.** Panelist, Southern Management Association, October 2026.
+- **Ethical integration of AI technologies in organizational research methodology.** Academy of Management Community Accelerator Program, Bașkent University, Ankara, Türkiye, February 2026.
+- **The state of emergent leadership research.** Tokyo Nodai University, Tokyo, Japan, January 2026.
+- **Factor analysis** and **Parceling.** Instructor, SAGE Research Methods Tutorial Program, 2025.
+- **Exploring academic opportunities.** Panelist, Early-Stage Doctoral Consortium, Southern Management Association, October 2025.
+- **How to succeed in the Ph.D. admission process.** Panelist, Academy of Management, Copenhagen, July 2025.
+- **Using your authenticity as a tool for success.** Early Stage Doctoral Consortium, Southern Management Association, October 2024.
+- **Ask the experts: Survey development and application.** Panelist, Southern Management Association, October 2023.
+- **Identifying and encouraging informal leaders in the workplace: Insights from leadership emergence research.** Boys Town National Research Hospital, Omaha, NE, March 2023.
+- **Navigating career decisions in academia.** Late-Stage Doctoral Consortium, Southern Management Association, October 2022.
+- **An introduction to factor analysis and scale design** (with L. J. Williams). Professional development workshop, Southern Management Association, November 2021.
+- **Measurement models for latent variables in organizational research** (with L. J. Williams). Professional development workshop, Southern Management Association, November 2018.
+
+:::
+
+## Refereed conference presentations
+
+<!-- Grouped by year. AOM = Academy of Management; SMA = Southern Management
+     Association; SIOP = Society for Industrial and Organizational Psychology;
+     GDN = Group Decision and Negotiation. -->
+
+::: {.pubs}
+
+**2026**
+
+- Hanna, A. A., Williams, L. J., Zhang, B., & Edwards, J. *Aligning theory and measurement: Addressing the multidimensional construct modeling challenge.* Symposium, Research Methods Division, AOM, Philadelphia, PA.
+- Hanna, A. A., & Garcia, A. *Leader emergence in attention-scarce environments.* SMA, St. Petersburg Beach, FL.
+- Hanna, A. A., Onkst, K., & Smith, T. A. *Who do leaders empower? Examining how leader and follower learning goal orientations impact empowering leadership decisions.* SMA, St. Petersburg Beach, FL.
+- Konno, K., & Hanna, A. A. *Framework for predicting pseudo-equilibria caused by bias blind spots in GMCR.* 26th International Conference on Group Decision and Negotiation, Katowice, Poland.
+
+**2025**
+
+- Hanna, A. A., Landay, K. M., & Neely, B. H. *Natural born leaders? Gender and the role of ability beliefs in leader emergence.* Organizational Behavior Division, AOM, Copenhagen, Denmark.
+- Hanna, A. A., Williams, L. J., Choi, J., Castille, C., Culpepper, S., Zhang, B., Zhang, S., & Park, Y. *Enhancing model precision: Advanced solutions for common challenges in latent variable modeling.* Symposium, Research Methods Division, AOM, Copenhagen, Denmark.
+- Moore, O. A., Hanna, A. A., Mchiri, A., Grady, A., & Bell, B. *Mixed versus traditional multiple team membership configurations: A moderated mediation examination of team identification and intragroup conflict.* SMA, Greenville, SC.
+- Irwin, K., DeSimone, J. A., Hanna, A. A., Kelley, J., O'Toole, J., & Waddingham, J. A. *Community engagement for collaborative AI learning and use.* Panel and workshop, SMA, Greenville, SC.
+
+**2024**
+
+- Hanna, A. A., & Neely, B. *Beyond short-term impressions: Construed temporal distance, trustworthiness, and leader emergence.* Organizational Behavior Division, AOM, Chicago, IL.
+- Battle, C., Silvera, G., Newbert, S. L., Hanna, A. A., & Huerta, T. *Deciphering the relationships of co-creation: Author, reviewer, and editor roles in peer reviews.* Workshop, Health Care Management Division, AOM, Chicago, IL.
+- Clayton, E., Hanna, A. A., Smith, A. R., Medaugh, M. R., & Caudill, L. *Innovation in experiential learning: Preparing students for a dynamic work environment.* Symposium, Management Education and Development Division, AOM, Chicago, IL.
+
+**2023**
+
+- Hanna, A. A., Williams, L. J., Bliese, P., Schurer Lambert, L., Vandenberg, R. J., DeSimone, J. A., & Albritton, E. *We need to chat: Discussing the ramifications of ChatGPT for methodological research.* Symposium, AOM, Boston, MA.
+- Borgholthaus, C. J., Smith, T. A., & Hanna, A. A. *Performance feedback and corporate risk-taking: The moderating effects of CEO personality.* Strategy Division, AOM, Boston, MA.
+- Konno, K., & Hanna, A. A. *Self-awareness and bias blind spots in business decision-making.* 23rd International Conference on Group Decision and Negotiation, Tokyo, Japan.
+- Hanna, A. A., & Nelson, S. A. *The entrepreneurial hat trick: A winning strategy for entrepreneurial education.* Workshop, Global Consortium of Entrepreneurship Centers, Dallas, TX.
+
+**2022**
+
+- Liu, B., & Hanna, A. A. *Burgeoning research in emergent leadership.* Symposium, Organizational Behavior Division, AOM, Seattle, WA.
+- Moore, O. A., Rapp, T. L., Mistry, S., & Hanna, A. A. *Employee experiences across their multiple team memberships: New theoretical directions in MTM research.* Symposium, Organizational Behavior Division, AOM, Seattle, WA.
+- Hanna, A. A., & Williams, L. J. *Recent advancements in measurement research.* Symposium, SIOP, Seattle, WA.
+
+**2021**
+
+- Borgholthaus, C. J., Hanna, A. A., & Lee, E. Y. *Performance feedback and corporate risk-taking: The moderating effects of CEO personality.* SMA, New Orleans, LA.
+- Hanna, A. A. *The impression management-emergent leadership relationship: The mediating role of trustworthiness.* Organizational Behavior Division, AOM, Philadelphia, PA.
+- Mbaraonye, I., Hanna, A. A., & Titus Jr., V. K. *What about my family? The role of negative family feedback in entrepreneurial opportunity evaluation.* Entrepreneurship Division, AOM, Philadelphia, PA.
+
+**2017-2019**
+
+- Hanna, A. A., Williams, L. J., & Smith, T. A. *Homogeneous vs. heterogeneous parcels with multidimensional constructs.* Research Methods Division, AOM, Boston, MA (2019).
+- Smith, T. A., Hanna, A. A., & Zhang, P. *Beneficial effects of empowering leadership on leaders.* Organizational Behavior Division, AOM, Boston, MA (2019).
+- Hanna, A. A., Smith, T. A., Courtright, S. H., & Zhang, P. *Empowering leadership: Antecedents, moderators, and consequences.* Symposium, AOM, Chicago, IL (2018).
+- Hanna, A. A., Williams, L. J., & Smith, T. A. *A comparison of latent variable approaches with multidimensional constructs.* Research Methods Division, AOM, Chicago, IL (2018).
+- Mistry, S., Kirkman, B. L., Hanna, A. A., & Moore, O. A. *A multilevel approach to multiple team membership.* Symposium, AOM, Chicago, IL (2018).
+- Mistry, S., Kirkman, B. L., Hanna, A. A., & Moore, O. A. *Multiteaming: Linking number and primary ID of teams to fragmented IDs and turnover.* Poster, SIOP, Chicago, IL (2018).
+- Hanna, A. A., & Williams, L. J. *Current issues in judging SEM model fit.* Symposium, Research Methods Division, AOM, Atlanta, GA (2017).
+
+:::
+
+## Local and professional development talks
+
+- *Tales from the other side of the first year and beyond: Thoughts from faculty* and *More than just a teacher: Suggestions on how to connect with students*. UNL Office of the Executive Vice Chancellor, August 2023.
+- *Teaching entrepreneurship during a pandemic* (with T. Means). USASBE, June 2021.

@@ -1,0 +1,42 @@
+# _quarto.yml  --  the "control panel" for your whole site.
+# Quarto reads this file first. Lines starting with # are comments (ignored).
+# YAML is indentation-sensitive: use spaces (never tabs) and keep nesting exact.
+
+project:
+  type: website          # tells Quarto to build a multi-page website
+  output-dir: docs       # rendered HTML goes into /docs; GitHub Pages will serve this folder
+  resources:
+    - files/*            # make sure everything in /files (your CV PDF) is copied into the site
+
+website:
+  title: "Andrew A. Hanna"          # shown in the browser tab and top-left of the navbar
+  site-url: "https://YOUR-USERNAME.github.io"   # <-- CHANGE: your GitHub username
+  description: "Assistant Professor of Management at the University of Nebraska-Lincoln. Research on emergent leadership, multiple team membership, and latent variable methodology."
+  # favicon: files/favicon.png      # optional tab icon; add a small PNG there and remove the leading "# "
+  page-footer:
+    left: "© 2026 Andrew A. Hanna"
+    right: "Built with [Quarto](https://quarto.org)"
+  navbar:
+    right:                          # menu items; each "href" is a file in this folder
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks
+      - href: service.qmd
+        text: Service & Awards
+      - href: cv.qmd
+        text: CV
+      - icon: github                # small icon link; CHANGE the username
+        href: https://github.com/YOUR-USERNAME
+        aria-label: GitHub
+
+format:
+  html:
+    theme: [cosmo, styles.scss]    # "cosmo" is a built-in Bootswatch theme; styles.scss layers your tweaks on top
+    toc: false                      # no automatic table of contents (we turn it on per page where useful)
+    smooth-scroll: true
+    link-external-newwindow: true   # external links open in a new tab

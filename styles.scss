@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+// styles.scss -- small visual tweaks layered on top of the Cosmo theme.
+// SCSS is CSS with extras. Quarto requires the "/*-- scss:... --*/" marker lines.
+//
+// "defaults" section: set theme variables BEFORE the theme is built.
+// Change this hex code and links/accents update site-wide
+// (a deep red nodding to Nebraska scarlet).
+$link-color: #9d2235;
+$link-hover-color: #6e1826;
+
+/*-- scss:rules --*/
+// "rules" section: ordinary CSS rules applied AFTER the theme.
+// A rule looks like:  selector { property: value; }
+
+// Slightly narrower, more readable text column
+.page-columns .content { max-width: 52rem; }
+
+// Headings
+h1, h2, h3 { font-weight: 600; }
+h2 { border-bottom: 1px solid #ddd; padding-bottom: .25rem; margin-top: 2.2rem; }
+
+// Publication lists (the ".pubs" wrapper used in research.qmd and talks.qmd)
+.pubs ol, .pubs ul { padding-left: 1.2rem; }
+.pubs li { margin-bottom: .8rem; }
+
+// Small muted text for notes
+.note { color: #666; font-size: .9rem; }
+
+// Navbar: keep it quiet
+.navbar { border-bottom: 1px solid #e5e5e5; }

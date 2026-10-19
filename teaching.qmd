@@ -1,0 +1,58 @@
+---
+title: "Teaching"
+toc: true
+toc-title: "On this page"
+---
+
+## Teaching philosophy
+
+<!-- PLACEHOLDER: Replace this paragraph with 1-3 paragraphs in your own words.
+     Your mid-tenure teaching dossier is a good source to adapt. -->
+
+*Add a short statement of your approach to teaching here. Themes visible in your record include experiential learning, human-centered design, entrepreneurship education, and the thoughtful integration of AI into the classroom.*
+
+## Courses taught
+
+Course-level instructor ratings are on a 5-point scale and summarize the sections listed in my CV (Summer 2017 through Spring 2026).
+
+| Course | Level | Terms taught | Instructor rating range |
+|:-------|:------|:-------------|:------------------------|
+| MNGT 321: Foundations of Entrepreneurship | Undergraduate | Fall 2020 - Fall 2024 (14 sections, up to 375 students) | 4.53 - 4.89 |
+| MNGT 360: Managing Behavior in Organizations | Undergraduate | Summer 2017; Fall 2021 - Spring 2026 | 4.68 - 4.88 |
+| MNGT 361: Human Resource Management | Undergraduate | Spring 2022 | 4.86 |
+| MNGT 398: Applied Design Thinking: Human-Centered Design & Your Life | Undergraduate | Spring 2023, 2024, 2025 | 4.94 - 5.00 |
+| MNGT 398: Global Startup Communities: Entrepreneurship in Rwanda | Undergraduate | Summer 2021, Summer 2022 | 4.80 - 5.00 |
+| MNGT 421: Identifying and Exploring Entrepreneurial Opportunity | Undergraduate | Fall 2018, Spring 2019, Fall 2019 | 4.31 - 4.50 |
+| MNGT 475: Business Strategies (capstone) | Undergraduate | Spring 2022 - Fall 2024 (10 sections) | 4.69 - 4.94 |
+
+<span class="note">I have taught both in-person and asynchronous online sections.</span>
+
+## Teaching recognition
+
+- UNL College of Business **Excellence in Teaching Award** (2023); finalist (2022)
+- UNL College of Business **Graduate Student Teacher of the Year** (2021)
+- UNL College of Business **Seacrest Teaching Fellowship** (2023-2026)
+- Academy of Management Management Education and Development Division **Best Symposium Award** (2024)
+
+## Teaching development and certifications
+
+- Harvard Business School Case Teaching Certificate (2024)
+- FIRST Program (Faculty-Led Inquiry into Reflective & Scholarly Teaching), UNL; participant and later Teaching Fellow
+- Gallup Strengths Coach certification (2023)
+- Reflective Practitioners Program, Silver Member, UNL Center for Transformative Teaching (2022-2023)
+- Summer Institute for Online Teaching, UNL (2020)
+- Teaching Entrepreneurship development courses (2021, 2022)
+
+## Teaching-related service
+
+- Faculty Mentor, UNL College of Business Ph.D. Teaching Certificate Program (2023-2024)
+- Member, AI Policy Development Task Force, UNL College of Business (2025)
+- Faculty Advisor, Startups UNL and the Entrepreneurship Student Impact Team (2021-2022)
+- Faculty Advisor, National Collegiate Diversity Case Competition Team (2021-2022)
+
+## Instructional resources
+
+I am the instructor for the SAGE Research Methods tutorials on **factor analysis** and **parceling**, and I have co-led professional development workshops on factor analysis, scale design, and SEM model fit at the Southern Management Association.
+
+<!-- Later idea: post a "Resources" page with R (lavaan) example scripts and
+     short walkthroughs from your factor analysis workshops. -->

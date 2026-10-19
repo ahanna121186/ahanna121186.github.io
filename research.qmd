@@ -1,0 +1,111 @@
+---
+title: "Research"
+# Turns on a "table of contents" in the right margin built from the ## headings below.
+toc: true
+toc-title: "On this page"
+---
+
+<!-- Text in this kind of tag is an HTML comment: it never shows on the site.
+     Quarto pages are just Markdown: ## makes a heading, **bold**, *italics*,
+     [text](url) makes a link, and a line starting with "1." or "-" makes a list.
+
+     The ::: {.pubs} ... ::: wrapper applies the ".pubs" style from styles.scss
+     (hanging-indent reference-list look). -->
+
+## Research program
+
+My work asks two kinds of questions. The first is substantive: *how and why do some people become leaders without being appointed*, and *what happens to employees who belong to several teams at once?* The second is methodological: *how should researchers model the multidimensional constructs that these questions require?* The two feed each other, since good leadership theory depends on good measurement.
+
+## Journal articles
+
+::: {.pubs}
+
+1. Hyde, S. J., **Hanna, A. A.**, & Klaupins, G. (2027). Two pathways at once: How reactance and ethical engagement shape student learning with AI. *The International Journal of Management Education, 25*. [https://doi.org/10.1016/j.ijme.2026.101549](https://doi.org/10.1016/j.ijme.2026.101549)
+
+1. Mbaraonye, I., **Hanna, A. A.**, & Titus Jr., V. K. (2026). When family weighs in: Family feedback and entrepreneurial opportunity evaluation. *Entrepreneurship Theory & Practice*. Forthcoming.
+
+1. Williams, L. J., **Hanna, A. A.**, & Smith, T. A. (2026). Methods and theory for using parcels in management research: An overview and guide for improved analyses. *Journal of Management, 52*(4). [https://doi.org/10.1177/01492063251316479](https://doi.org/10.1177/01492063251316479)
+
+1. Moore, O. A., Susskind, A. M., Margolin, D., & **Hanna, A. A.** (2026). A resource-acquisition perspective: Examining the effects of downsizing on work-related relationships and performance. *Group & Organization Management, 51*(2). [https://doi.org/10.1177/10596011241235692](https://doi.org/10.1177/10596011241235692)
+
+1. Konno, K., & **Hanna, A. A.** (2025). Modeling and evaluating the impact of bias blind spots on business decisions through matrix-based graph models. *Group Decision and Negotiation, 34*(6). [https://doi.org/10.1007/s10726-025-09950-z](https://doi.org/10.1007/s10726-025-09950-z)
+
+1. Gardner, W. L., **Hanna, A. A.**, Cogliser, C. C., & Noghani, F. (2024). Leadership emergence: Answering the "how" and "why" questions by considering levels of analysis and forms of emergence. *Annual Review of Organizational Psychology and Organizational Behavior, 11*(1), 139-164. [https://doi.org/10.1146/annurev-orgpsych-110721-040430](https://doi.org/10.1146/annurev-orgpsych-110721-040430)
+
+1. Mistry, S., Kirkman, B. L., Moore, O. A., **Hanna, A. A.**, & Rapp, T. L. (2023). Too many teams? Examining the impact of multiple team memberships and permanent team identification on employees' identity strain, cognitive depletion, and turnover. *Personnel Psychology, 76*(3), 885-912. [https://doi.org/10.1111/peps.12515](https://doi.org/10.1111/peps.12515)
+
+1. **Hanna, A. A.**, Smith, T. A., Kirkman, B. L., & Griffin, R. W. (2021). The emergence of emergent leadership: A comprehensive framework and directions for future research. *Journal of Management, 47*(1), 76-104. [https://doi.org/10.1177/0149206320965683](https://doi.org/10.1177/0149206320965683)
+
+:::
+
+## Book chapters, reference works, and cases
+
+::: {.pubs}
+
+1. Badura, K.\*, **Hanna, A. A.**\*, & Smith, T. A.\* (2025). Leadership emergence. In R. Griffin (Ed.), *Oxford Bibliographies in Management*. Oxford University Press. [https://doi.org/10.1093/obo/9780199846740-0244](https://doi.org/10.1093/obo/9780199846740-0244) <span class="note">(\*shared first authorship; authors listed alphabetically)</span>
+
+1. Mackalski, R., **Hanna, A. A.**, Simon, R., & Ducusin, M. (2025). *The Bay: A third space for misfits*. Ivey Publishing Case Studies.
+
+1. Williams, L. J., & **Hanna, A. A.** (2023). Exploratory/confirmatory factor analysis and scale development. In L. R. Ford & T. A. Scandura (Eds.), *SAGE Handbook of Survey Development and Application*. SAGE.
+
+1. Konno, K., & **Hanna, A. A.** (2023). Self-awareness and bias blind spots in business decision-making. In Y. Maemura, M. Horita, L. Fang, & Zaraté (Eds.), *Group Decision and Negotiation in the Era of Multimodal Interactions*. Springer.
+
+1. Griffin, R. W., **Hanna, A. A.**, Smith, T. A., & Kirkman, B. L. (2022). How bad leaders impact organizational effectiveness. In D. Lusk & T. Hayes (Eds.), *SIOP Professional Practice Series: The Good, the Bad, and the Human Dark Side at Work*. Oxford University Press.
+
+1. Oluwasina, D., Scutchfeld, E., **Hanna, A. A.**, Leedom, S., & Ndejuru, T. (2022). *The Entrepreneurship Program Design and Resource Toolkit: A blueprint for expanding entrepreneurship education in Central Africa*. Rwandan Institute for Conservation Agriculture (RICA).
+
+:::
+
+## Manuscripts under review
+
+<!-- Journal names are intentionally left off for papers still in review.
+     Many scholars do this; add them back if you prefer. -->
+
+::: {.pubs}
+
+- Perrigino, M., **Hanna, A. A.**, Pratt, B., & Meyers, A. *An integrated framework of religion and spirituality in secular organizations.* (Second-round revise and resubmit)
+- **Hanna, A. A.**, Williams, L. J., & Zhang, B. *Higher-order factor models, bifactor models, and the specific variance problem.*
+- **Hanna, A. A.**, & Smith, T. A. *Learning goal orientation, gender, and leader empowerment behaviors.*
+- **Hanna, A. A.**, Neely, B., & Kirkman, B. L. *Emergent leadership and the construal-level theory of time.*
+- Moore, O. A., Rapp, T. L., Mistry, S., **Hanna, A. A.**, & Bell, B. *Interteam communications in multiteam projects: The interaction of multiple team memberships and role ambiguity.*
+- Garcia, A., **Hanna, A. A.**, Evatt, D., Kirkman, B. L., Bocarro, J., & Acker, D. *Integrative conceptual review of values-based leadership.*
+- Byrd, S., & **Hanna, A. A.** *Psychological safety for blue-collar workers.*
+- Konno, K., & **Hanna, A. A.** *Predicting pseudo-equilibria caused by bias blind spots in GMCR.*
+
+:::
+
+## Projects in progress
+
+<!-- Stage labels come from your CV. Years are planned submission targets. -->
+
+::: {.pubs}
+
+- **Leader emergence in attention-scarce environments** (with A. Garcia). Finalization.
+- **Multiple team membership categorizations** (with O. A. Moore, A. Mchiri, A. Grady, & B. Bell). Finalization.
+- **Self-promoting toward emergent leadership: How high-ability displays are interpreted differently across cultures** (with B. Liu). Writing.
+- **Psychological capital as a shield from the stress of undesired emergent leadership** (with K. W. Luthans). Writing.
+- **Visualizing bias blind spots in decision-making using the GMCR and hypergame models** (with K. Konno). Writing.
+- **Competing institutional logics and the role of moral hazards: An ASA model** (with C. S. Tuggle). Writing.
+- **AI-assisted leader communication and follower affective states: An fMRI study** (with K. M. Landay, B. Neely, A. Garcia, D. Schultz, & M. Dodd). Writing and design.
+- **Leader consideration giving in work and non-work contexts** (with A. Garcia, T. A. Smith, & P. Z. Zhang). Writing and design.
+- **Informal external leadership** (with A. L. Bartels & A. Garcia). Writing and design.
+- **A critical review of the operationalization of emergent leadership** (with L. J. Williams). Writing and analysis.
+- **Validation of the Leadership Identity Development scale** (with L. Hastings). Analysis.
+
+:::
+
+## Grants and fellowships
+
+- **Seacrest Family Foundation Teaching Fellowship** (2023-2026; $8,000 per year). Supports research on innovation in teaching, with a focus on AI.
+- **Center for Brain, Biology and Behavior pilot grant** (2026; $17,500; Principal Investigator). Exploratory pilot on the neurological effects of AI-generated leadership communication, in partnership with UNL's Department of Neuropsychology.
+- **University of Nebraska Interdepartmental Collaboration Grant** (2026; $100,000; Principal Investigator; under review).
+
+## Code and data
+
+<!-- This is where your GitHub repos come in. When you create a repo for a paper
+     (R scripts, simulated data, replication instructions), link it here, e.g.:
+
+     - **Parceling in R**: code for the examples in Williams, Hanna, & Smith (2026). [GitHub repo](https://github.com/ahanna121186/parceling-examples)
+-->
+
+Replication code and materials for selected papers will be posted on [my GitHub profile](https://github.com/ahanna121186) as they become available.

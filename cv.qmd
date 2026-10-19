@@ -1,0 +1,36 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download my full CV (PDF)](files/Hanna_CV.pdf){.btn .btn-primary role="button"}
+
+<span class="note">Last updated October 2026.</span>
+
+## Education
+
+- **Ph.D. in Business (Management)**, University of Nebraska-Lincoln, May 2021
+  Emphases: Leadership, Research Methods
+  Dissertation: *Here's your sign: The use of signals in impacting social categorizations*
+  Chairs: Larry J. Williams and Troy A. Smith
+- **M.B.A.** (Entrepreneurship), University of Nebraska-Lincoln, August 2016
+- **B.S.B.A.** (International Business; Asian Studies), University of Nebraska-Lincoln, December 2009
+
+## Academic appointments
+
+- **Assistant Professor of Management**, University of Nebraska-Lincoln, August 2024 to present
+- **Seacrest Teaching Fellow**, University of Nebraska-Lincoln, August 2023 to present
+- **Assistant Professor of Practice**, University of Nebraska-Lincoln, August 2021 to July 2024
+
+## Methods training (selected)
+
+<!-- Mostly CARMA short courses. Edit freely. -->
+
+- Advanced Multilevel Analysis with R; Introduction to Multilevel Analysis with R (2020)
+- Introduction to SEM with R and lavaan; Advanced SEM I & II; Intermediate SEM: Model Evaluation (2017-2019)
+- Advanced Regression: Polynomial and Response Surface Methods; Intermediate Regression (2019)
+- Questionnaire Design; Experience Sampling Methods (2025)
+- Video Methods (2021)
+
+## Full CV
+
+The PDF above includes complete teaching evaluations, all service roles, and professional development. Details on specific sections are also on the [Research](research.qmd), [Teaching](teaching.qmd), [Talks](talks.qmd), and [Service & Awards](service.qmd) pages.

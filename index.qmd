@@ -1,0 +1,56 @@
+---
+# The block between the --- lines is this page's "front matter" (settings for this page only).
+title: "Andrew A. Hanna, Ph.D."
+# "about" is a built-in Quarto layout for personal home pages. It puts a photo and
+# link buttons beside your bio. The "trestles" template places them in a left sidebar.
+about:
+  template: trestles
+  # image: files/profile.jpg     # <-- when you have a headshot, save it as files/profile.jpg and remove the leading "# "
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ahanna3@unl.edu
+    - icon: file-earmark-person
+      text: CV
+      href: files/Hanna_CV.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrew-a-hanna-46308014/
+    - icon: github
+      text: GitHub
+      href: https://github.com/ahanna121186
+    # Add these when you have the URLs (delete the leading "# " on each line):
+    # - icon: mortarboard
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/citations?user=XXXX
+    # - icon: person-badge
+    #   text: ORCID
+    #   href: https://orcid.org/0000-0000-0000-0000
+---
+
+I am an Assistant Professor of Management in the Department of Management at the University of Nebraska-Lincoln, where I am also a Seacrest Teaching Fellow. I earned my B.S.B.A., M.B.A., and Ph.D. in Business (Management) from UNL, completing the Ph.D. in 2021 under Larry J. Williams and Troy A. Smith.
+
+My research sits at the intersection of **leadership** and **research methodology**. On the substantive side, I study how informal leadership emerges in groups and teams, and how employees experience belonging to multiple teams at once. On the methodological side, I work on latent variable modeling, including factor analysis, item parceling, and the modeling of multidimensional constructs.
+
+I am active in the Academy of Management's Research Methods Division, where I serve as the 2026 AOM-CARMA Consortium Chair, and I serve on the Board of Directors of the Southern Management Association. I also teach entrepreneurship, organizational behavior, and design thinking, and I research how AI can be integrated into teaching.
+
+## Research interests
+
+- Informal and emergent leadership
+- Multiple team membership
+- Structural equation modeling and latent variable methodology
+- Multidimensional constructs, parceling, and model fit
+
+## Recent highlights
+
+- **2026:** Received the AOM Network of Leadership Scholars Early Career Rising Star Award.
+- **2026:** Named Journal of Organizational Behavior's 2025 Reviewer of the Year.
+- **2026:** *Methods and theory for using parcels in management research* (with L. J. Williams and T. A. Smith) published in the *Journal of Management*.
+- **Upcoming:** Southern Management Association meeting (October 2026) and an invited talk for the AOM Community Accelerator Program in Riga, Latvia (April 2027).
+
+## Contact
+
+Department of Management, University of Nebraska-Lincoln
+730 North 14th Street, Ste. 325D, Lincoln, NE 68588-0405
+[ahanna3@unl.edu](mailto:ahanna3@unl.edu)
