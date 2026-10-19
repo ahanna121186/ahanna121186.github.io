@@ -28,3 +28,11 @@ h2 { border-bottom: 1px solid #ddd; padding-bottom: .25rem; margin-top: 2.2rem; 
 
 // Navbar: keep it quiet
 .navbar { border-bottom: 1px solid #e5e5e5; }
+
+// Home page: show the headshot BELOW the title and link buttons in the left sidebar.
+// "order" re-sorts items inside a flex column without changing the page's HTML.
+.quarto-about-trestles .about-entity {
+  display: flex;
+  flex-direction: column;
+}
+.quarto-about-trestles .about-entity .about-image { order: 3; margin-top: 1.25rem; }
