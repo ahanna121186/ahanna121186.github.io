@@ -1,0 +1,130 @@
+---
+title: "The Marginalia"
+---
+
+<!-- This page is just a list of "cards". Each card is the small block of HTML
+     between <div class="col"> ... </div></div></div>. To add a new edition,
+     copy the top card (the newest), paste it above itself, and change the
+     number, title, book, author, and link. -->
+
+*The Marginalia* is a recurring literary essay series, published on LinkedIn, in which I revisit a book that has shaped my thinking. The name comes from my habit of writing in the margins of the books I read. Each edition is anchored by a quote and ends with a question for readers. Editions are listed newest first, and each card links to the full essay on LinkedIn.
+
+<style>
+.edition-no { font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; color: #777; margin-bottom: .25rem; }
+.edition-book { color: #555; font-size: .92rem; }
+.edition-card { border: 1px solid #e3e3e3; }
+.edition-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.edition-card .card-title { margin-top: 0; border: none; }
+</style>
+
+::: {.row .row-cols-1 .row-cols-md-2 .g-3 .mt-3}
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 18</p>
+<h3 class="card-title h5">Familiar Isn&#x27;t True</h3>
+<p class="card-text edition-book"><em>Thinking, Fast and Slow</em><br>Daniel Kahneman</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-18-familiar-isnt-true-andrew-a-hanna-cotlc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 17</p>
+<h3 class="card-title h5">Food, Cheer, and Song</h3>
+<p class="card-text edition-book"><em>The Lord of the Rings</em><br>J.R.R. Tolkien</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-16-food-cheer-song-andrew-a-hanna-mdeqc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 16</p>
+<h3 class="card-title h5">Each to Each, a Looking Glass</h3>
+<p class="card-text edition-book"><em>Human Nature and the Social Order</em><br>Charles Horton Cooley</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-16-each-looking-glass-andrew-a-hanna-skh5c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 15</p>
+<h3 class="card-title h5">The Purest Form of Generosity</h3>
+<p class="card-text edition-book"><em>Reflections on the Right Use of School Studies</em><br>Simone Weil</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-15-purest-form-generosity-andrew-a-hanna-d0v7c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 14</p>
+<h3 class="card-title h5">The Days That Must Happen</h3>
+<p class="card-text edition-book"><em>Leaves of Grass</em><br>Walt Whitman</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-14-days-must-happen-andrew-a-hanna-i2ric/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 13</p>
+<h3 class="card-title h5">Respecting What We Are Trying to Heal</h3>
+<p class="card-text edition-book"><em>Revisionist History</em><br>Malcolm Gladwell</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-13-respecting-what-we-trying-heal-andrew-a-hanna-5ff2c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 12</p>
+<h3 class="card-title h5">Wonder, Outsourced</h3>
+<p class="card-text edition-book"><em>The Creative Act</em><br>Rick Rubin</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-12-wonder-outsourced-andrew-a-hanna-f8hoc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 11</p>
+<h3 class="card-title h5">The Pride in Our Hurt</h3>
+<p class="card-text edition-book"><em>East of Eden</em><br>John Steinbeck</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-11-pride-our-hurt-andrew-a-hanna-d9ric/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 10</p>
+<h3 class="card-title h5">Magic in the Ordinary</h3>
+<p class="card-text edition-book"><em>The House in the Cerulean Sea</em><br>T.J. Klune</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-10-magic-ordinary-andrew-a-hanna-tsolc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 9</p>
+<h3 class="card-title h5">The Lifelong Walk</h3>
+<p class="card-text edition-book"><em>Don&#x27;t Sweat the Small Stuff</em><br>Richard Carlson</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-9-lifelong-walk-andrew-a-hanna-jkr9e/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 8</p>
+<h3 class="card-title h5">Serendipity Has Names</h3>
+<p class="card-text edition-book"><em>The Alchemist</em><br>Paulo Coelho</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-8-serendipity-has-names-andrew-a-hanna-klt1c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 7</p>
+<h3 class="card-title h5">Good...But Never Right</h3>
+<p class="card-text edition-book"><em>Women</em><br>Charles Bukowski</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-7-goodbut-never-right-andrew-a-hanna-bmb5c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 6</p>
+<h3 class="card-title h5">How Well We Walk</h3>
+<p class="card-text edition-book"><em>Gambler&#x27;s All</em><br>Charles Bukowski</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-6-how-well-we-walk-andrew-a-hanna-wc4tc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 5</p>
+<h3 class="card-title h5">How Easy, How Hard</h3>
+<p class="card-text edition-book"><em>The Professor of Desire</em><br>Philip Roth</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-5-how-easy-hard-andrew-a-hanna-dou1c/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 4</p>
+<h3 class="card-title h5">Our Bookends</h3>
+<p class="card-text edition-book"><em>How to See Yourself as You Really Are</em><br>Dalai Lama</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-4-our-bookends-andrew-a-hanna-wtlmc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 3</p>
+<h3 class="card-title h5">No Companion So Companionable</h3>
+<p class="card-text edition-book"><em>Walden</em><br>Henry David Thoreau</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-3-companion-so-companionable-andrew-a-hanna-behpc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 2</p>
+<h3 class="card-title h5">Hold on Loosely</h3>
+<p class="card-text edition-book"><em>Man&#x27;s Search for Meaning</em><br>Viktor Frankl</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-2-hold-loosely-andrew-a-hanna-pw9ic/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+<div class="col"><div class="card h-100 edition-card"><div class="card-body d-flex flex-column">
+<p class="edition-no">Edition 1</p>
+<h3 class="card-title h5">The Spaces in Our Togetherness</h3>
+<p class="card-text edition-book"><em>The Prophet</em><br>Kahlil Gibran</p>
+<a class="btn btn-outline-primary btn-sm mt-auto align-self-start" href="https://www.linkedin.com/pulse/marginalia-edition-1-spaces-our-togetherness-andrew-a-hanna-9znnc/" target="_blank" rel="noopener">Read on LinkedIn</a>
+</div></div></div>
+
+:::
