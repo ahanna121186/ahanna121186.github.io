@@ -50,7 +50,7 @@ Overview chapters and books that cover the whole workflow, from exploratory anal
 
 Williams, L. J., & Hanna, A. A. (2023). Exploratory/confirmatory factor analysis and scale development. In L. R. Ford & T. A. Scandura (Eds.), *The SAGE handbook of survey development and application*. SAGE.
 
-[Publisher catalog entry (book-level link)](https://digital.casalini.it/9781529618020){.link}
+[Download a free copy of the chapter here](Williams & Hanna (2023) - Factor Analysis.pdf){.link}
 
 Covers how exploratory and confirmatory factor analysis fit together in developing and evaluating survey scales.
 :::
