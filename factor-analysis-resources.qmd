@@ -1,0 +1,440 @@
+---
+title: "Factor Analysis and Model Fit: Resource Guide"
+toc: true
+toc-title: "Jump to a question"
+toc-depth: 2
+---
+
+<!-- HOW THIS PAGE WORKS
+     Each "##" heading is a question attendees might have. Under it, each
+     resource is a block between ::: {.resource} and :::. To add one, copy a
+     block and edit the citation, link, and description.
+     A resource marked with "Start here" has the class .start-here added to it
+     and a badge. Delete those two bits to remove the badge.
+     BOOKS have no DOI, so they link to the publisher page. -->
+
+<style>
+.resource { border-left: 3px solid #e3e3e3; padding: .1rem 0 .1rem .9rem; margin: 1.1rem 0; }
+.resource.start-here { border-left-color: #9d2235; }
+.resource p { margin: 0 0 .35rem 0; }
+.resource .why { color: #333; }
+.resource .link { font-size: .9rem; }
+.badge-start { display: inline-block; font-size: .68rem; letter-spacing: .08em; text-transform: uppercase;
+  background: #9d2235; color: #fff; padding: .1rem .5rem; border-radius: 3px; margin-bottom: .3rem; }
+.section-intro { color: #555; font-style: italic; margin-top: -.3rem; }
+.short-on-time { background: #f6f6f6; border: 1px solid #e3e3e3; border-radius: 6px; padding: .8rem 1.1rem; margin: 1.2rem 0; }
+.short-on-time ul { margin-bottom: 0; }
+@media print { .resource { break-inside: avoid; } .navbar, #quarto-sidebar, #TOC { display: none; } }
+</style>
+
+Prepared for my session on factor analysis and model fit at the 2026 Southern Management Association annual meeting. Resources are grouped by the question they help answer. Click any DOI link to go straight to the article, or the publisher page for books (books do not have DOIs). The link to my chapter with Larry Williams goes to the publisher’s catalog entry for the handbook.
+
+::: {.short-on-time}
+**Short on time? Start with these three.**
+
+- Williams & Hanna (2023): the full workflow in one chapter.
+- Fabrigar et al. (1999): the key decisions in exploratory factor analysis.
+- Hu & Bentler (1999), read alongside Lance et al. (2006): where fit cutoffs come from, and why to treat them as guidelines.
+:::
+
+Resources marked <span class="badge-start">Start here</span> are my suggested first read within each question.
+
+## Where should I start?
+
+::: {.section-intro}
+Overview chapters and books that cover the whole workflow, from exploratory analysis through model fit.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Williams, L. J., & Hanna, A. A. (2023). Exploratory/confirmatory factor analysis and scale development. In L. R. Ford & T. A. Scandura (Eds.), *The SAGE handbook of survey development and application*. SAGE.
+
+[Publisher catalog entry (book-level link)](https://digital.casalini.it/9781529618020){.link}
+
+Covers how exploratory and confirmatory factor analysis fit together in developing and evaluating survey scales.
+:::
+
+::: {.resource}
+Brown, T. A. (2015). *Confirmatory factor analysis for applied research* (2nd ed.). Guilford Press.
+
+[Publisher page (book, no DOI)](https://www.guilford.com/books/Confirmatory-Factor-Analysis-for-Applied-Research/Timothy-Brown/9781462515363){.link}
+
+An applied, step-by-step book on specifying, estimating, evaluating, and revising CFA models, with worked examples.
+:::
+
+::: {.resource}
+Kline, R. B. (2023). *Principles and practice of structural equation modeling* (5th ed.). Guilford Press.
+
+[Publisher page (book, no DOI)](https://www.guilford.com/books/Principles-and-Practice-of-Structural-Equation-Modeling/Rex-Kline/9781462551910){.link}
+
+A widely used and readable SEM textbook, including CFA, fit indices, and how to report results.
+:::
+
+## How do I run an exploratory factor analysis well?
+
+::: {.section-intro}
+The main decisions in an EFA are which extraction method to use, how many factors to keep, and which rotation to apply.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Costello, A. B., & Osborne, J. (2005). Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis. *Practical Assessment, Research, and Evaluation, 10*.
+
+[https://doi.org/10.7275/jyj1-4868](https://doi.org/10.7275/jyj1-4868){.link}
+
+A short, accessible demonstration of how choices about extraction, rotation, and retention change EFA results, with practical recommendations.
+:::
+
+::: {.resource}
+Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating the use of exploratory factor analysis in psychological research. *Psychological Methods, 4*(3), 272–299.
+
+[https://doi.org/10.1037/1082-989X.4.3.272](https://doi.org/10.1037/1082-989X.4.3.272){.link}
+
+Walks through the key decisions in an EFA and argues for common-factor methods over default principal components analysis.
+:::
+
+::: {.resource}
+Hayton, J. C., Allen, D. G., & Scarpello, V. (2004). Factor retention decisions in exploratory factor analysis: A tutorial on parallel analysis. *Organizational Research Methods, 7*(2), 191–205.
+
+[https://doi.org/10.1177/1094428104263675](https://doi.org/10.1177/1094428104263675){.link}
+
+Explains parallel analysis, a more defensible way to decide how many factors to keep than the eigenvalue-greater-than-one rule.
+:::
+
+::: {.resource}
+Watkins, M. W. (2018). Exploratory factor analysis: A guide to best practice. *Journal of Black Psychology, 44*(3), 219–246.
+
+[https://doi.org/10.1177/0095798418771807](https://doi.org/10.1177/0095798418771807){.link}
+
+A recent best-practice guide covering common EFA mistakes and the procedures recommended instead.
+:::
+
+## How much data do I need?
+
+::: {.section-intro}
+Rules of thumb such as “10 participants per item” are common, but the evidence points elsewhere.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+MacCallum, R. C., Widaman, K. F., Zhang, S., & Hong, S. (1999). Sample size in factor analysis. *Psychological Methods, 4*(1), 84–99.
+
+[https://doi.org/10.1037/1082-989X.4.1.84](https://doi.org/10.1037/1082-989X.4.1.84){.link}
+
+Shows that the sample size you need depends on how strongly items load on factors and how many items load on each one, rather than on a fixed ratio.
+:::
+
+## How do I develop and validate a new scale?
+
+::: {.section-intro}
+Guidance on writing items, checking that they match the construct, and testing the resulting structure.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Hinkin, T. R. (1998). A brief tutorial on the development of measures for use in survey questionnaires. *Organizational Research Methods, 1*(1), 104–121.
+
+[https://doi.org/10.1177/109442819800100106](https://doi.org/10.1177/109442819800100106){.link}
+
+A step-by-step tutorial on generating items, collecting data, and evaluating a new measure’s factor structure and reliability.
+:::
+
+::: {.resource}
+Colquitt, J. A., Sabey, T. B., Rodell, J. B., & Hill, E. T. (2019). Content validation guidelines: Evaluation criteria for definitional correspondence and definitional distinctiveness. *Journal of Applied Psychology, 104*(10), 1243–1265.
+
+[https://doi.org/10.1037/apl0000406](https://doi.org/10.1037/apl0000406){.link}
+
+Offers a method for checking whether new items match the intended construct definition and are distinct from related constructs, before any factor analysis.
+:::
+
+::: {.resource}
+DeVellis, R. F., & Thorpe, C. T. (2021). *Scale development: Theory and applications* (5th ed.). SAGE.
+
+[Publisher page (book, no DOI)](https://collegepublishing.sagepub.com/products/scale-development-5-269114){.link}
+
+A book-length introduction to designing, testing, and refining measurement scales.
+:::
+
+## Does my confirmatory model fit?
+
+::: {.section-intro}
+How to read chi-square, CFI, RMSEA, and SRMR, and how to describe fit in a manuscript.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. *Structural Equation Modeling, 6*(1), 1–55.
+
+[https://doi.org/10.1080/10705519909540118](https://doi.org/10.1080/10705519909540118){.link}
+
+The source of the most widely cited fit guidelines (for example CFI near .95, RMSEA near .06, SRMR near .08). Read it together with the next section.
+:::
+
+::: {.resource}
+Williams, L. J., Vandenberg, R. J., & Edwards, J. R. (2009). 12 Structural equation modeling in management research: A guide for improved analysis. *Academy of Management Annals, 3*(1), 543–604.
+
+[https://doi.org/10.5465/19416520903065683](https://doi.org/10.5465/19416520903065683){.link}
+
+A management-focused guide to applying SEM, including measurement models, evaluating fit, and reporting.
+:::
+
+::: {.resource}
+Bagozzi, R. P., & Yi, Y. (2012). Specification, evaluation, and interpretation of structural equation models. *Journal of the Academy of Marketing Science, 40*(1), 8–34.
+
+[https://doi.org/10.1007/s11747-011-0278-x](https://doi.org/10.1007/s11747-011-0278-x){.link}
+
+A readable overview of specifying models, choosing and reading fit indices, and interpreting results.
+:::
+
+## Can I trust the fit-index cutoffs?
+
+::: {.section-intro}
+The “.95 and .06” guidelines are often treated as universal rules. These papers explain where they came from and when they mislead.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Lance, C. E., Butts, M. M., & Michels, L. C. (2006). The sources of four commonly reported cutoff criteria: What did they really say? *Organizational Research Methods, 9*(2), 202–220.
+
+[https://doi.org/10.1177/1094428105284919](https://doi.org/10.1177/1094428105284919){.link}
+
+Traces several commonly cited rules of thumb in the organizational sciences (including those for reliability and model fit) back to what their original authors actually said.
+:::
+
+::: {.resource}
+Marsh, H. W., Hau, K.-T., & Wen, Z. (2004). In search of golden rules: Comment on hypothesis-testing approaches to setting cutoff values for fit indexes and dangers in overgeneralizing Hu and Bentler’s (1999) findings. *Structural Equation Modeling, 11*(3), 320–341.
+
+[https://doi.org/10.1207/s15328007sem1103_2](https://doi.org/10.1207/s15328007sem1103_2){.link}
+
+Cautions against treating Hu and Bentler’s cutoffs as universal, because appropriate values depend on the model and conditions.
+:::
+
+::: {.resource}
+McNeish, D., An, J., & Hancock, G. R. (2018). The thorny relation between measurement quality and fit index cutoffs in latent variable models. *Journal of Personality Assessment, 100*(1), 43–52.
+
+[https://doi.org/10.1080/00223891.2017.1281286](https://doi.org/10.1080/00223891.2017.1281286){.link}
+
+Shows that the same misspecification produces different fit-index values depending on how reliable the items are, so a fixed cutoff can mislead.
+:::
+
+::: {.resource}
+McNeish, D., & Wolf, M. G. (2023). Dynamic fit index cutoffs for confirmatory factor analysis models. *Psychological Methods, 28*(1), 61–88.
+
+[https://doi.org/10.1037/met0000425](https://doi.org/10.1037/met0000425){.link}
+
+Introduces “dynamic” cutoffs tailored to the specific model being tested, with software to compute them (see the R tools at the bottom of this page).
+:::
+
+## My model doesn’t fit. Now what?
+
+::: {.section-intro}
+What to do when fit is poor, and why modifying a model to improve fit carries risks.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+MacCallum, R. C., Roznowski, M., & Necowitz, L. B. (1992). Model modifications in covariance structure analysis: The problem of capitalization on chance. *Psychological Bulletin, 111*(3), 490–504.
+
+[https://doi.org/10.1037/0033-2909.111.3.490](https://doi.org/10.1037/0033-2909.111.3.490){.link}
+
+Warns that data-driven modifications (for example, following modification indices) often capitalize on chance and may not replicate.
+:::
+
+::: {.resource}
+Saris, W. E., Satorra, A., & van der Veld, W. M. (2009). Testing structural equation models or detection of misspecifications? *Structural Equation Modeling, 16*(4), 561–582.
+
+[https://doi.org/10.1080/10705510903203433](https://doi.org/10.1080/10705510903203433){.link}
+
+Argues that judging a model by overall fit alone can miss meaningful problems, and that researchers should look for specific misspecified parameters.
+:::
+
+## What if my items are Likert-type or not normally distributed?
+
+::: {.section-intro}
+Most survey items are ordinal, which affects which estimator you should use.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Rhemtulla, M., Brosseau-Liard, P. É., & Savalei, V. (2012). When can categorical variables be treated as continuous? A comparison of robust continuous and categorical SEM estimation methods under suboptimal conditions. *Psychological Methods, 17*(3), 354–373.
+
+[https://doi.org/10.1037/a0029315](https://doi.org/10.1037/a0029315){.link}
+
+Examines when ordinal items can reasonably be treated as continuous and when categorical methods are needed, such as with few response options or skewed data.
+:::
+
+::: {.resource}
+Flora, D. B., & Curran, P. J. (2004). An empirical evaluation of alternative methods of estimation for confirmatory factor analysis with ordinal data. *Psychological Methods, 9*(4), 466–491.
+
+[https://doi.org/10.1037/1082-989X.9.4.466](https://doi.org/10.1037/1082-989X.9.4.466){.link}
+
+Compares estimators for CFA with ordinal data and supports categorical-data approaches such as weighted least squares variants.
+:::
+
+## Is my scale reliable and valid?
+
+::: {.section-intro}
+Reliability (is it consistent?) and validity (does it measure the right thing and nothing else?) are related but separate questions.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Cortina, J. M. (1993). What is coefficient alpha? An examination of theory and applications. *Journal of Applied Psychology, 78*(1), 98–104.
+
+[https://doi.org/10.1037/0021-9010.78.1.98](https://doi.org/10.1037/0021-9010.78.1.98){.link}
+
+Explains what coefficient alpha does and does not tell you, including how it depends on the number of items and on dimensionality.
+:::
+
+::: {.resource}
+McNeish, D. (2018). Thanks coefficient alpha, we’ll take it from here. *Psychological Methods, 23*(3), 412–433.
+
+[https://doi.org/10.1037/met0000144](https://doi.org/10.1037/met0000144){.link}
+
+Explains why alpha’s assumptions often fail and introduces alternatives such as omega, with guidance on using them.
+:::
+
+::: {.resource}
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. *Journal of Marketing Research, 18*(1), 39–50.
+
+[https://doi.org/10.1177/002224378101800104](https://doi.org/10.1177/002224378101800104){.link}
+
+Introduced average variance extracted (AVE) and the comparison of AVE to shared variance as a check on convergent and discriminant validity.
+:::
+
+::: {.resource}
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. *Journal of the Academy of Marketing Science, 43*(1), 115–135.
+
+[https://doi.org/10.1007/s11747-014-0403-8](https://doi.org/10.1007/s11747-014-0403-8){.link}
+
+Proposes the HTMT ratio as a more sensitive test of discriminant validity than the Fornell–Larcker comparison.
+:::
+
+## How do I handle multidimensional constructs, higher-order and bifactor models, and parcels?
+
+::: {.section-intro}
+For constructs with several facets, such as many leadership and engagement measures.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Williams, L. J., Hanna, A. A., & Smith, T. A. (2026). Methods and theory for using parcels in management research: An overview and guide for improved analysis. *Journal of Management, 52*(4), 1333–1362.
+
+[https://doi.org/10.1177/01492063251316479](https://doi.org/10.1177/01492063251316479){.link}
+
+A guide to when and how to use item parcels in management research, including with multidimensional constructs.
+:::
+
+::: {.resource}
+Credé, M., & Harms, P. D. (2015). 25 years of higher-order confirmatory factor analysis in the organizational sciences: A critical review and development of reporting recommendations. *Journal of Organizational Behavior, 36*(6), 845–872.
+
+[https://doi.org/10.1002/job.2008](https://doi.org/10.1002/job.2008){.link}
+
+Reviews how higher-order CFA has been used in the organizational sciences and offers recommendations for reporting it.
+:::
+
+::: {.resource}
+Reise, S. P. (2012). The rediscovery of bifactor measurement models. *Multivariate Behavioral Research, 47*(5), 667–696.
+
+[https://doi.org/10.1080/00273171.2012.715555](https://doi.org/10.1080/00273171.2012.715555){.link}
+
+Explains what bifactor models are, what questions they can answer, and how to interpret them.
+:::
+
+::: {.resource}
+Little, T. D., Cunningham, W. A., Shahar, G., & Widaman, K. F. (2002). To parcel or not to parcel: Exploring the question, weighing the merits. *Structural Equation Modeling, 9*(2), 151–173.
+
+[https://doi.org/10.1207/S15328007SEM0902_1](https://doi.org/10.1207/S15328007SEM0902_1){.link}
+
+Lays out the arguments for and against combining items into parcels in latent variable models.
+:::
+
+## Does my measure work the same way across groups or over time?
+
+::: {.section-intro}
+Testing measurement invariance is necessary before comparing scores across groups or time points.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of the measurement invariance literature: Suggestions, practices, and recommendations for organizational research. *Organizational Research Methods, 3*(1), 4–70.
+
+[https://doi.org/10.1177/109442810031002](https://doi.org/10.1177/109442810031002){.link}
+
+Reviews the logic of invariance testing and recommends a sequence of steps for organizational researchers.
+:::
+
+::: {.resource}
+Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for testing measurement invariance. *Structural Equation Modeling, 9*(2), 233–255.
+
+[https://doi.org/10.1207/S15328007SEM0902_5](https://doi.org/10.1207/S15328007SEM0902_5){.link}
+
+Proposes using changes in fit indices, such as a change in CFI of .01 or less, to decide whether invariance holds.
+:::
+
+## How do I structure, run, and report my analysis?
+
+::: {.section-intro}
+What to test first, what to include in a manuscript, and the free software to do it in R.
+:::
+
+::: {.resource}
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation modeling in practice: A review and recommended two-step approach. *Psychological Bulletin, 103*(3), 411–423.
+
+[https://doi.org/10.1037/0033-2909.103.3.411](https://doi.org/10.1037/0033-2909.103.3.411){.link}
+
+Recommends testing the measurement model with CFA first and examining structural relationships only after the measurement model is acceptable.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Jackson, D. L., Gillaspy, J. A., Jr., & Purc-Stephenson, R. (2009). Reporting practices in confirmatory factor analysis: An overview and some recommendations. *Psychological Methods, 14*(1), 6–23.
+
+[https://doi.org/10.1037/a0014694](https://doi.org/10.1037/a0014694){.link}
+
+Reviews how CFA results are reported in published research and gives recommendations for what to include.
+:::
+
+::: {.resource}
+Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. *Journal of Statistical Software, 48*(2), 1–36.
+
+[https://doi.org/10.18637/jss.v048.i02](https://doi.org/10.18637/jss.v048.i02){.link}
+
+The citation for lavaan, the free R package used for CFA and SEM.
+:::
+
+**Free software**
+
+::: {.resource}
+
+[**lavaan tutorial and documentation**](https://lavaan.ugent.be/tutorial/): Free, step-by-step tutorial for running CFA and SEM in R.
+
+:::
+
+::: {.resource}
+
+[**semTools (R package)**](https://CRAN.R-project.org/package=semTools): Add-on tools for lavaan, including reliability coefficients, fit comparisons, and measurement invariance testing.
+
+:::
+
+::: {.resource}
+
+[**dynamic (R package)**](https://CRAN.R-project.org/package=dynamic): Computes the model-specific dynamic fit index cutoffs from McNeish and Wolf (2023).
+
+:::
+
+---
+
+Questions or suggestions for this list? Email me at [ahanna3@unl.edu](mailto:ahanna3@unl.edu). *Last updated October 2026.*
