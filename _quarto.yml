@@ -28,6 +28,8 @@ website:
         text: Talks
       - href: service.qmd
         text: Service & Awards
+      - href: factor-analysis-resources.qmd
+        text: SMA Methods Resources
       - href: marginalia.qmd
         text: The Marginalia
       - href: cv.qmd
